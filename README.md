@@ -1,6 +1,5 @@
 # curriculum-databases-projects-template
 
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -33,7 +32,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,11 +58,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Vet_clinic] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a Vet Clinic
+> **[Vet_clinic]** is a relational database project to create the data structure for a vet clinic. I create a complete database with data about: animals, animals' owners, clinic employees and visits.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,7 +93,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> **Display List of animals**
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -109,9 +105,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](<replace-with-your-deployment-URL>)
+> [Live Demo Link](coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,34 +113,30 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A Computer (MAC or PC)
+- Code editor (VSCode,Atom etc...)
+- A browser (Chrome,Mozilla,Safari etc...)
+- Version Control System (Git and Github)
+- NodeJS (https://nodejs.org/en/)
+- React {https://react.dev/}
+- PostgreSQL {https://www.postgresql.org/}
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+--->
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Besufekad-HAZ/Vet_Clinic.git (SSH)
 ```
---->
 
 ### Install
 
@@ -203,19 +193,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Besufekad Alemu**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Besufekad-HAZ](https://github.com/Besufekad-HAZ)
+- Twitter: [@BesufekadAlemu7](https://twitter.com/BesufekadAlemu7)
+- LinkedIn: [@besura](www.linkedin.com/in/besura)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +205,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+> [ ] **Coming Soon**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +215,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com:Besufekad-HAZ/Vet_Clinic.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +223,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> If you like this project rate it and give it a star...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +231,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+> I would like to thank the [Microverse team](https://www.microverse.org/) for allowing us to work on this Vet Clinic Database project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +241,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **Do i need PostgreSQL installed?**
 
-  - [Answer_1]
+  - Yes...
 
-- **[Question_2]**
+- **Do i need internet Access?**
 
-  - [Answer_2]
+  - no, you don't the database can work offline.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
