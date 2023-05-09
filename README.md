@@ -220,7 +220,7 @@ Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Vet_Clinic
 
 - **Do i need internet Access?**
 
-  - no, you don't the PostgreSQL database server can work offline.
+  - No, you don't the PostgreSQL database server can work offline. And If your server does not have internet access you can install PostgreSQL offline.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
