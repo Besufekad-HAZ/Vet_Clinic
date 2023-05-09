@@ -1,8 +1,5 @@
 # curriculum-databases-projects-template
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
 
 ## Getting Started
 
@@ -67,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[your_project__name]** is a Vet Clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
