@@ -10,28 +10,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,25 +38,23 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Vet_clinic] <a name="about-project"></a>
 
-> **[Vet_clinic]** is a relational database project to create the data structure for a vet clinic. I create a complete database with data about: animals, animals' owners, clinic employees and visits.
+> **[Vet_clinic]** :- is a relational database project to create the data structure for a vet clinic. I create a complete database with data about: animals, animals' owners, clinic employees and visits.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>none</li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>none</li>
   </ul>
 </details>
 
@@ -93,11 +69,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> **Display List of animals**
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+> **[Display_List_of_animals]**
+> --> **[Search_List_of_animals_by_properties]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +220,7 @@ Feel free to check the [issues page](https://github.com:Besufekad-HAZ/Vet_Clinic
 
 - **Do i need internet Access?**
 
-  - no, you don't the database can work offline.
+  - no, you don't the PostgreSQL database server can work offline.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
