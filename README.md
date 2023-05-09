@@ -188,7 +188,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com:Besufekad-HAZ/Vet_Clinic.git/issues).
+Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Vet_Clinic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
