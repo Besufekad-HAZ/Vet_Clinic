@@ -24,8 +24,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -126,41 +124,13 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run a SQL file, execute the following command:
 
-<!--
-Example command:
+To use the \i command, you can type it followed by the path to the file containing the SQL commands you want to execute. For example:
 
-```sh
-  rails server
-```
---->
+`\i /path/to/file.sql `
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This will execute the SQL commands in the specified file.
 
 <!-- AUTHORS -->
 
@@ -178,7 +148,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> [ ] **Coming Soon**
+> [ ] **Medical records management** > [ ] **Appointment scheduling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,7 +199,5 @@ Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Vet_Clinic
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
