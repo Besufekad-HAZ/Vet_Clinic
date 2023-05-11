@@ -67,8 +67,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-> **[Display_List_of_animals]**
-> --> **[Search_List_of_animals_by_properties]**
+- **[Display_List_of_animals]**
+- **[Search_List_of_animals_by_properties]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
