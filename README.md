@@ -76,7 +76,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo Link](coming soon)
+> [Live_Demo_Link] ----> (coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,8 +101,6 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
---->
 
 ```sh
   cd my-folder
@@ -143,7 +141,8 @@ This will execute the SQL commands in the specified file.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> [ ] **Medical records management** > [ ] **Appointment scheduling**
+- [ ] **Medical records management**
+- [ ] **Appointment scheduling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,8 +175,6 @@ Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Vet_Clinic
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Do i need PostgreSQL installed?**
 
