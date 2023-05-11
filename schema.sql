@@ -41,3 +41,32 @@ ADD CONSTRAINT fok_species
 ADD CONSTRAINT fok_owner
   FOREIGN KEY (owner_id)
   REFERENCES owners(id);
+
+
+-- 4th and final seciton of the project
+
+-- Project 4
+
+CREATE TABLE veterinarians (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  age INT NOT NULL,
+  graduation_date DATE NOT NULL
+);
+
+CREATE TABLE specializations (
+  veterinarian_id INT NOT NULL,
+  species_id INT NOT NULL,
+  PRIMARY KEY (veterinarian_id, species_id),
+  FOREIGN KEY (veterinarian_id) REFERENCES veterinarians(id),
+  FOREIGN KEY (species_id) REFERENCES species(id)
+);
+
+CREATE TABLE visits (
+  animal_id INT NOT NULL,
+  veterinarian_id INT NOT NULL,
+  visit_date DATE NOT NULL,
+  PRIMARY KEY (animal_id, veterinarian_id, visit_date),
+  FOREIGN KEY (animal_id) REFERENCES animals(id),
+  FOREIGN KEY (veterinarian_id) REFERENCES veterinarians(id)
+);
