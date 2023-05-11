@@ -113,14 +113,9 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- Install PostgreSQL [Win](https://www.postgresql.org/download/windows/)
+- Install PostgreSQL [macOS](https://www.postgresql.org/download/macosx/)
+- Install PostgreSQL [Linux](https://www.postgresql.org/download/linux/)
 
 ### Usage
 
