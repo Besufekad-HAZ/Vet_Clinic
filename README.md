@@ -10,6 +10,14 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
+<div align="center">
+   <img src="schema-diagram.png" alt="Schema Diagram" height="auto" />
+    <br/>
+
+  <h2><b>Schema Diagram </b></h2>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
